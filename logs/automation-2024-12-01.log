@@ -1,0 +1,58 @@
+13:31:53:658 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********  Started TC001_AccountRegistrationTest ********
+13:31:54:983 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+13:31:57:719 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+13:31:57:731 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details ...
+13:32:03:176 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message .. 
+13:32:03:342 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********  Finished TC001_AccountRegistrationTest ********
+13:32:14:724 [main] INFO  testCases.TC002_LoginTest - ******** Starting TC002_LoginTest ******
+13:32:19:289 [main] INFO  testCases.TC002_LoginTest - ******** Finished TC002_LoginTest ******
+13:33:27:898 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yoges\eclipse-workspace\OpenCartv101\testng2_platform.xml
+
+13:33:39:149 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********  Started TC001_AccountRegistrationTest ********
+13:33:40:674 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+13:33:42:518 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+13:33:42:523 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details ...
+13:33:47:083 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message .. 
+13:33:47:164 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********  Finished TC001_AccountRegistrationTest ********
+13:33:51:708 [main] INFO  testCases.TC002_LoginTest - ******** Starting TC002_LoginTest ******
+13:33:55:320 [main] INFO  testCases.TC002_LoginTest - ******** Finished TC002_LoginTest ******
+20:12:25:884 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yoges\eclipse-workspace\OpenCartv101\testng.xml
+
+20:14:40:722 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yoges\eclipse-workspace\OpenCartv101\testng.xml
+
+20:15:39:940 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yoges\eclipse-workspace\OpenCartv101\testng2_platform.xml
+
+20:18:12:303 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yoges\eclipse-workspace\OpenCartv101\testng.xml
+
+20:18:22:206 [main] INFO  testCases.TC003_LoginDDT - ******** Starting TC003_LoginDDT ******
+20:18:28:866 [main] INFO  testCases.TC003_LoginDDT - ******** Finished TC003_LoginDDT ******
+20:18:28:886 [main] INFO  testCases.TC003_LoginDDT - ******** Starting TC003_LoginDDT ******
+20:18:42:092 [main] INFO  testCases.TC003_LoginDDT - ******** Finished TC003_LoginDDT ******
+20:18:42:101 [main] INFO  testCases.TC003_LoginDDT - ******** Starting TC003_LoginDDT ******
+20:18:54:047 [main] INFO  testCases.TC003_LoginDDT - ******** Finished TC003_LoginDDT ******
+20:18:54:055 [main] INFO  testCases.TC003_LoginDDT - ******** Starting TC003_LoginDDT ******
+20:19:06:051 [main] INFO  testCases.TC003_LoginDDT - ******** Finished TC003_LoginDDT ******
+20:19:06:061 [main] INFO  testCases.TC003_LoginDDT - ******** Starting TC003_LoginDDT ******
+20:20:21:337 [main] INFO  testCases.TC003_LoginDDT - ******** Starting TC003_LoginDDT ******
+20:20:25:737 [main] INFO  testCases.TC003_LoginDDT - ******** Finished TC003_LoginDDT ******
+20:20:25:813 [main] INFO  testCases.TC003_LoginDDT - ******** Starting TC003_LoginDDT ******
+20:20:38:793 [main] INFO  testCases.TC003_LoginDDT - ******** Finished TC003_LoginDDT ******
+20:20:38:797 [main] INFO  testCases.TC003_LoginDDT - ******** Starting TC003_LoginDDT ******
+20:20:50:877 [main] INFO  testCases.TC003_LoginDDT - ******** Finished TC003_LoginDDT ******
+20:20:50:880 [main] INFO  testCases.TC003_LoginDDT - ******** Starting TC003_LoginDDT ******
+20:21:03:027 [main] INFO  testCases.TC003_LoginDDT - ******** Finished TC003_LoginDDT ******
+20:21:03:031 [main] INFO  testCases.TC003_LoginDDT - ******** Starting TC003_LoginDDT ******
+20:23:02:395 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********  Started TC001_AccountRegistrationTest ********
+20:23:04:009 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+20:23:06:285 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+20:23:06:328 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details ...
+20:23:11:357 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message .. 
+20:23:11:437 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********  Finished TC001_AccountRegistrationTest ********
+20:23:15:590 [main] INFO  testCases.TC002_LoginTest - ******** Starting TC002_LoginTest ******
+20:23:19:321 [main] INFO  testCases.TC002_LoginTest - ******** Finished TC002_LoginTest ******
+20:45:17:296 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********  Started TC001_AccountRegistrationTest ********

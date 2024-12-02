@@ -1,0 +1,73 @@
+11:14:36:570 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2f2bf0e2: 0 ms
+11:22:55:855 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yoges\eclipse-workspace\OpenCartv101\testng.xml
+
+11:23:34:499 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yoges\eclipse-workspace\OpenCartv101\testng.xml
+
+11:25:24:598 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yoges\eclipse-workspace\OpenCartv101\testng.xml
+
+11:25:35:200 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********  Started TC001_AccountRegistrationTest ********
+11:25:36:840 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:25:38:769 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+11:25:38:776 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details ...
+11:25:43:230 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message .. 
+11:25:43:295 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********  Finished TC001_AccountRegistrationTest ********
+11:50:19:599 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yoges\eclipse-workspace\OpenCartv101\testng.xml
+
+11:52:16:393 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yoges\eclipse-workspace\OpenCartv101\testng.xml
+
+11:52:26:028 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********  Started TC001_AccountRegistrationTest ********
+11:52:26:339 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:52:27:808 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+11:52:27:819 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details ...
+11:52:32:104 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message .. 
+11:52:32:167 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********  Finished TC001_AccountRegistrationTest ********
+12:42:32:591 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yoges\eclipse-workspace\OpenCartv101\testng.xml
+
+20:04:24:512 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yoges\eclipse-workspace\OpenCartv101\testng.xml
+
+20:05:21:183 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yoges\eclipse-workspace\OpenCartv101\testng.xml
+
+20:10:52:487 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yoges\eclipse-workspace\OpenCartv101\testng.xml
+
+20:16:25:009 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yoges\eclipse-workspace\OpenCartv101\testng.xml
+
+20:17:26:504 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yoges\eclipse-workspace\OpenCartv101\testng.xml
+
+20:17:36:361 [main] INFO  testCases.TC002_LoginTest - ******** Starting TC002_LoginTest ******
+20:17:40:239 [main] INFO  testCases.TC002_LoginTest - ******** Finished TC002_LoginTest ******
+20:18:48:649 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yoges\eclipse-workspace\OpenCartv101\testng.xml
+
+20:26:23:107 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yoges\eclipse-workspace\OpenCartv101\testng.xml
+
+20:26:36:884 [main] INFO  testCases.TC003_LoginDDT - ******** Starting TC003_LoginDDT ******
+20:26:41:160 [main] INFO  testCases.TC003_LoginDDT - ******** Finished TC003_LoginDDT ******
+20:26:41:184 [main] INFO  testCases.TC003_LoginDDT - ******** Starting TC003_LoginDDT ******
+20:26:55:025 [main] INFO  testCases.TC003_LoginDDT - ******** Finished TC003_LoginDDT ******
+20:26:55:029 [main] INFO  testCases.TC003_LoginDDT - ******** Starting TC003_LoginDDT ******
+20:27:06:854 [main] INFO  testCases.TC003_LoginDDT - ******** Finished TC003_LoginDDT ******
+20:27:06:864 [main] INFO  testCases.TC003_LoginDDT - ******** Starting TC003_LoginDDT ******
+20:27:19:551 [main] INFO  testCases.TC003_LoginDDT - ******** Finished TC003_LoginDDT ******
+20:27:19:567 [main] INFO  testCases.TC003_LoginDDT - ******** Starting TC003_LoginDDT ******
+10:33:24:794 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yoges\eclipse-workspace\OpenCartv101\grouping.xml
+
+10:33:41:334 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********  Started TC001_AccountRegistrationTest ********
+10:33:41:572 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+10:33:43:542 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+10:33:43:552 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details ...
+10:33:50:029 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message .. 
+10:33:50:146 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********  Finished TC001_AccountRegistrationTest ********
+10:33:54:899 [main] INFO  testCases.TC002_LoginTest - ******** Starting TC002_LoginTest ******
